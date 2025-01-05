@@ -1,0 +1,14 @@
+E:\POO\TestFisiere\Teste\Teste\bin\Debug\net8.0\Teste.exe
+E:\POO\TestFisiere\Teste\Teste\bin\Debug\net8.0\Teste.deps.json
+E:\POO\TestFisiere\Teste\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+E:\POO\TestFisiere\Teste\Teste\bin\Debug\net8.0\Teste.dll
+E:\POO\TestFisiere\Teste\Teste\bin\Debug\net8.0\Teste.pdb
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\Teste.dll
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\Teste.pdb
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+E:\POO\TestFisiere\Teste\Teste\obj\Debug\net8.0\ref\Teste.dll

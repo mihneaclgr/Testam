@@ -9,7 +9,7 @@ void AdaugareRuta()
     destinatie = Console.ReadLine();
     nrKm = int.Parse(Console.ReadLine());
     
-    File.AppendAllText("Ruterute.txt",plecare+"-"+destinatie+", "+nrKm+'\n');
+    File.AppendAllText("Rute.txt",plecare+"-"+destinatie+", "+nrKm+'\n');
 }
 
 AdaugareRuta();
